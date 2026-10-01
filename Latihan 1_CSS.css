@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+table {
+    width: 650px;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid #d9a62e;
+}
+
+/* HEADER */
+.header {
+    height: 70px;
+    background-color: #ffe6c7;
+    text-align: center;
+    vertical-align: middle;
+}
+
+/* NAVIGASI */
+.nav {
+    height: 48px;
+    background-color: #d9e7fa;
+    text-align: center;
+    vertical-align: middle;
+}
+
+/* BAGIAN UTAMA */
+.content {
+    height: 275px;
+}
+
+/* MAIN */
+main {
+    background-color: #f7cccc;
+    padding: 45px 50px;
+    height: 185px;
+}
+
+main h1 {
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+main p {
+    width: 350px;
+    line-height: 1.2;
+}
+
+/* ASIDE */
+aside {
+    background-color: #d8ead3;
+    padding: 40px 10px;
+    height: 195px;
+    vertical-align: top;
+}
+
+aside ul {
+    margin-top: 10px;
+    padding-left: 50px;
+}
+
+/* FOOTER */
+.footer {
+    height: 48px;
+    background-color: #ffe6c7;
+    text-align: center;
+    vertical-align: middle;
+}
